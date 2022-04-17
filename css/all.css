@@ -1,0 +1,8 @@
+body{
+            
+    background: rgba(2, 10, 10, 0.35) 
+    url("../pic/ruins-of-hampi-karnataka.jpg");          
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: 0;
+}
